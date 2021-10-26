@@ -1,0 +1,8 @@
+name: SKO-Assets
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: optimuspi/SKO-Assets
+  name: SKO-Assets

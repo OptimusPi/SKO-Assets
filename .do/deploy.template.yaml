@@ -1,0 +1,8 @@
+spec:
+  name: SKO-Assets
+  static_sites:
+  - environment_slug: html
+    git:
+      branch: main
+      repo_clone_url: https://github.com/optimuspi/SKO-Assets.git
+    name: SKO-Assets
