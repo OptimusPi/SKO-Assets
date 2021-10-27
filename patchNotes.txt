@@ -1,0 +1,13 @@
+-= Jun 3, 2018 =-
+Added new Auto Updater.
+
+-= Mar 12, 2018 =-
+Enhancement to open and close signs based on walking next to them. 
+
+-= Mar 9, 2018 =-
+Empty inventory slots no longer show an item icon when dragged.
+
+-= Jan 1, 2018 =-
+DEV server is online.
+
+ 
